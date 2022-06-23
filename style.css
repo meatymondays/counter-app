@@ -1,0 +1,27 @@
+html, body{
+    padding: 0;
+    margiin: 0;
+}
+
+body{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.counter-wrapper{
+    display: flex;
+    justify-content:space-around;
+    width: 80vw;
+}
+
+button{
+    width: 100px;
+}
+
+p{
+    font-size: 2rem;
+}
